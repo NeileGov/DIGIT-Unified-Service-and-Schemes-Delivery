@@ -11,6 +11,16 @@ To address this issue it is being proposed that all existing applications expose
 In addition to providing unified services to citizens and unified data to administrators, The proposed unified services platform will also enable existing applications to leverage common re-usable functionalities like payments notifications user authentication etc.
 Further, it is being proposed that this platform will also provide the ability for market players to leverage the unified APIs to provide last mile services to citizens. For example an application like MyGate should be able to integrate with the property collection APIs of the urban department to collect Property Tax from the citizens.
 
+#Why this platform is needed?
+
+1. Every department delivers multiple services to the citizen.
+2. Each Department builds their own portal and each of these applications are inconsistent - some don’t work on mobile, some are not multi-lingual, etc.
+3. This leads to both discovery and experience issues for citizens.
+4. As the same time, administrators are unable to get a unified view of all the service delivery data. 
+5. USI is being proposed to enable existing applications to expose a standard set of APIs such that a unified experience can be delivered to the citizen.
+6. Also USI will enable unification of data via service events. 
+7. The following slides illustrates how the USI can be implemented.
+
 ## Explore more from these Useful Links:
 
 * ### [Documentation](https://docs.digit.org)
